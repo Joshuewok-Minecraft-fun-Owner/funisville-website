@@ -1,4 +1,3 @@
 # Pages Planning
-[ ] Homepage
-[ ] About the Royal Court
-[ ] Socials
+- [ ] This is an uncompleted task
+- [x] This is a completed task
