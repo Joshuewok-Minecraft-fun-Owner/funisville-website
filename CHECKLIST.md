@@ -1,3 +1,6 @@
 # Pages Planning
-- [ ] This is an uncompleted task
-- [x] This is a completed task
+- [ ] Homepage
+- [ ] About the Royal Court
+- [ ] Socials
+- [ ] Recommended Streamers
+    - If Funisville is offline.
