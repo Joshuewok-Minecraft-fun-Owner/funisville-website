@@ -1,4 +1,4 @@
-#Pages to do
-[] Homepage
-[] About the Royal Court
-[] Socials
+# Pages Planning
+[ ] Homepage
+[ ] About the Royal Court
+[ ] Socials
